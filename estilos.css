@@ -1,0 +1,135 @@
+div#parte1{
+  background-color: #05445E;
+  color: white;
+  padding: 25px 25px 25px 25px;
+}
+
+div#titulo{
+  font-size: 60px;
+  text-align: center;
+  background-position: center;
+  background-color: black;
+  padding-top: 1.5px;
+  margin: 0px 0px 25px 0px;
+  height: 250px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div#intro{
+  text-align: center;
+  font-size: 50px;
+  margin-left: 15px;
+  margin-right: 20px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#presentacion{
+  height: 1000px;
+  background-color: #bfd5ed;
+  padding-top: 25px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#link{
+  text-align: center;
+  height: 80px;
+  margin-top: -10px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color: #ffef60;
+  border-radius: 40px 40px 40px 40px;
+  -moz-border-radius: 40px 40px 40px 40px;
+  -webkit-border-radius: 40px 40px 40px 40px;
+  border: 0px solid #000000;
+  border-style: groove;
+  border-color: white;
+}
+
+div#nombres{
+  background-color: white;
+  margin: 50px 1000px 0px 50px;
+  padding: 25px 25px 25px 25px;
+  height: 700px;
+}
+
+div#integrantes{
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div#lista{
+  font-size: 30px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#subtitulo{
+  font-size: 60px;
+  text-align: center;
+  background-color: #152340;
+  color: white;
+  margin: -750px 150px 0px 700px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div#objetivo{
+  text-align: justify;
+  font-size: 25px;
+  margin: 60px 100px 0px 600px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#parte2{
+  color: white;
+  height: 400px;
+  background-color: #405a94;
+  padding: 30px 0px 50px 50px;
+}
+
+div#apartados{
+  font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div#linkL{
+  font-size: 30px;
+  color: black;
+  background-position: center;
+  background-color: #F1E488;
+  margin: 0px 1100px 0px 0px;
+  height: 45px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#linkC1{
+  font-size: 30px;
+  color: black;
+  background-position: center;
+  background-color: #F1E488;
+  margin: -80px 700px 0px 400px;
+  height: 45px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#linkS1{
+  font-size: 30px;
+  color: black;
+  background-position: center;
+  background-color: #F1E488;
+  margin: -80px 200px 0px 800px;
+  height: 45px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#linkM1{
+  font-size: 30px;
+  color: black;
+  background-position: center;
+  background-color: #F1E488;
+  margin: 20px 800px 0px 300px;
+  height: 45px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}

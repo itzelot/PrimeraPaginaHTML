@@ -1,0 +1,141 @@
+div#encabezado2{
+  background-color: black;
+  height: 25px;
+  color: white;
+  margin: auto;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#cuerpo2{
+  background-color: #E7ADB3;
+  height: 970px;
+  margin-top: -55px;
+}
+
+div#titulo2{
+  font-size: 40px;
+  text-align: center;
+  margin: 30px 800px 0px 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div#intro{
+  margin: -30px 750px 0px 50px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#com{
+  background-color: #B72452;
+  border-radius: 40px 40px 40px 40px;
+  -moz-border-radius: 40px 40px 40px 40px;
+  -webkit-border-radius: 40px 40px 40px 40px;
+  border: 0px solid #000000;
+  border-style: groove;
+  border-color: #000000;
+  margin: 0px 900px 0px 200px;
+  height: 70px;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div#imagen3{
+  margin: 10px 0px 10px 60px;
+}
+
+div#cap3{
+  font-size: 20px;
+  background-color: white;
+  padding: 5px 5px 5px 5px;
+  margin: 10px 730px 0px 30px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#res{
+  font-size: 20px;
+  text-align: justify;
+  margin: -470px 80px 0px 800px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#stream{
+  height: 300px;
+  background-color: #B72452;
+  border-radius: 40px 40px 40px 40px;
+  -moz-border-radius: 40px 40px 40px 40px;
+  -webkit-border-radius: 40px 40px 40px 40px;
+  border: 0px solid #000000;
+  border-style: groove;
+  border-color: #000000;
+  margin: -900px 80px 0px 800px;
+  padding: 25px 15px 25px 25px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#netflix{
+  margin: 0px 0px 0px 80px;
+}
+
+div#hulu{
+  margin: -208px 30px 0px 300px;
+}
+
+div#video{
+  background-color: #89B297;
+  height: 400px;
+  margin: 0px 0px 0px 0px;
+  padding: 10px 0px 0px 50px;
+}
+
+div#descripcion{
+  font-size: 30px;
+  background-color: white;
+  margin: 100px 800px 0px 100px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#trailer{
+  margin: -270px 400px 0px 700px;
+}
+
+div#links4{
+  background-color: #BFCAD0;
+  height: 100px;
+  margin: -20px 0px 0px 0px;
+  padding: 20px 0px 35px 0px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#encabezado4{
+  margin: 0px 0px 0px 300px;
+}
+
+div#linkL2{
+  font-size: 20px;
+  background-color: #F1E488;
+  background-position: center;
+  margin: 20px 900px 10px 350px;
+  height: 30px;
+  text-align: center;
+}
+
+div#linkC1{
+  font-size: 20px;
+  background-color: #F1E488;
+  background-position: center;
+  margin: -54px 600px 10px 650px;
+  height: 30px;
+  text-align: center;
+}
+
+div#linkM3{
+  font-size: 20px;
+  background-color: #F1E488;
+  background-position: center;
+  margin: -54px 300px 10px 950px;
+  height: 30px;
+  text-align: center;
+}

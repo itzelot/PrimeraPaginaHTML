@@ -1,0 +1,123 @@
+div#encabezado{
+  background-color: black;
+  height: 25px;
+  color: white;
+  margin: auto;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#cuerpo{
+  background-color: #ffea5b;
+  margin: -105px 0px 0px 0px;
+  height: 1085px;
+}
+
+div#titulo{
+  padding-top: -25px;
+  color: white;
+  text-align: center;
+  background-color: #0a3fa2;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1{
+  padding-top: 50px;
+  padding-bottom: 0px;
+  font-size: 150px;
+}
+
+div#nota{
+  text-align: center;
+  margin-top: -50px;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div#imagen{
+  margin: 50px 0px 50px 220px;
+}
+
+div#cap{
+  margin: -20px 850px 0px 200px;
+  text-align: center;
+  background-color: white;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#tituloIMG{
+  text-align: center;
+  font-size: 50px;
+  background-color: white;
+  height: 60px;
+  width: 500px;
+  margin: -685px 0px 0px 650px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div#info1{
+  margin: 50px 300px 0px 620px;
+  text-align: justify;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#info2{
+  background-color: #D4F1F4;
+  margin: 50px 600px 0px 620px;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#imagen1{
+  margin: -200px 200px 0px 930px;
+}
+
+div#cap1{
+  background-color: white;
+  margin: 0px 250px 0px 880px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#links1{
+  background-color: #B7CFDC;
+  height: 150px;
+  margin: -20px 0px 0px 0px;
+  padding: 20px 0px 35px 0px;
+}
+
+div#encabezado1{
+  margin: 0px 0px 0px 300px;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#linkC{
+  font-size: 20px;
+  background-color: #F1E488;
+  background-position: center;
+  margin: 20px 900px 10px 350px;
+  height: 30px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#linkS{
+  font-size: 20px;
+  background-color: #F1E488;
+  background-position: center;
+  margin: -54px 600px 10px 650px;
+  height: 50px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
+
+div#linkM{
+  font-size: 20px;
+  background-color: #F1E488;
+  background-position: center;
+  margin: -73px 300px 10px 950px;
+  height: 30px;
+  text-align: center;
+  font-family: Monaco,Georgia,Times,serif;
+}
